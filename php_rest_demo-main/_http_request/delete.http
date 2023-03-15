@@ -1,0 +1,7 @@
+DELETE http://localhost/rest/gamer/delete.php HTTP/1.1
+content-type: application/json
+
+{
+	"id": 10,
+	"name": "ACCOUNTING"
+}
